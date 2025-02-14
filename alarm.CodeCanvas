@@ -1,0 +1,508 @@
+{
+	"drawioXML": "<mxfile>\n  <diagram id=\"PRS0saiqBJ7BA9HTSmRv\" name=\"Page-1\">\n    <mxGraphModel dx=\"2429\" dy=\"1335\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"0\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"0\" />\n        <UserObject label=\"alarm.dart\" value=\"alarm.dart\" id=\"wQPSot93MLJHToXyQ1DZ-1\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"1215\" y=\"70\" width=\"1440\" height=\"781.9999999999999\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"wQPSot93MLJHToXyQ1DZ-6\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"wQPSot93MLJHToXyQ1DZ-1\" source=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c\" target=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"220\" y=\"473.77943994012367\" />\n              <mxPoint x=\"220\" y=\"271.66216304625453\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"init\" value=\"alarm.dart {L54:L63}\" id=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"wQPSot93MLJHToXyQ1DZ-1\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"458.77943994012367\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"wQPSot93MLJHToXyQ1DZ-7\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"wQPSot93MLJHToXyQ1DZ-1\" source=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470\" target=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-e4fc4b58-d56d-4e8b-be5e-2178dbd4b502\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"815\" y=\"188.91218197639833\" />\n              <mxPoint x=\"815\" y=\"330.23489876483654\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"checkAlarm()\" value=\"alarm.dart {L65:L85}\" id=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"wQPSot93MLJHToXyQ1DZ-1\" vertex=\"1\">\n            <mxGeometry x=\"275\" y=\"50\" width=\"485\" height=\"360\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"ifIOS\" value=\"alarm.dart {L70}\" id=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-49c1edd7-a783-43dd-9cf3-538fdcc60924\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470\" vertex=\"1\">\n            <mxGeometry x=\"230\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"processExistingAlarms&lt;br&gt;\" value=\"alarm.dart {L72:L84}\" id=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-f88d41ae-b519-44c1-b7e6-452f49422d9a\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470\" vertex=\"1\">\n            <mxGeometry x=\"130\" y=\"150\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"setAlarm if in Future\" value=\"alarm.dart {L75}\" id=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-f88d41ae-b519-44c1-b7e6-452f49422d9a\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"getAlarms()&lt;br&gt;\" value=\"alarm.dart {L241:L243}\" id=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-e4fc4b58-d56d-4e8b-be5e-2178dbd4b502\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"wQPSot93MLJHToXyQ1DZ-1\" vertex=\"1\">\n            <mxGeometry x=\"957.5\" y=\"300.23489876483654\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"stopAll()\" value=\"alarm.dart {L177:L191}\" id=\"lib/alarm.dart-979e2472-a729-45d1-adfd-fed7877db3e8\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"wQPSot93MLJHToXyQ1DZ-1\" vertex=\"1\">\n            <mxGeometry x=\"865\" y=\"114.00793434214148\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"wQPSot93MLJHToXyQ1DZ-9\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"wQPSot93MLJHToXyQ1DZ-1\" source=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-49c1edd7-a783-43dd-9cf3-538fdcc60924\" target=\"lib/alarm.dart-979e2472-a729-45d1-adfd-fed7877db3e8\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"670\" y=\"130\" />\n              <mxPoint x=\"670\" y=\"131.03030883198073\" />\n              <mxPoint x=\"805\" y=\"131.03030883198076\" />\n              <mxPoint x=\"805\" y=\"144.0079343421415\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"s1j16OAnwQw2UcdvSXbG-3\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"wQPSot93MLJHToXyQ1DZ-1\" source=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139\" target=\"lib/alarm.dart-898de290-358c-4442-a9d0-13704896acc8\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"setAlarm&lt;br&gt;\" value=\"alarm.dart {L87:L116}\" id=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"wQPSot93MLJHToXyQ1DZ-1\" vertex=\"1\">\n            <mxGeometry x=\"865\" y=\"451\" width=\"300\" height=\"260\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"setIOSAlarm&lt;br&gt;\" value=\"alarm.dart {L106}\" id=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-6508cee4-1012-4515-859a-d69aa9695710\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"setAndroidAlarm\" value=\"alarm.dart {L107}\" id=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-7814669a-25a5-43af-a9b4-07aa4014a6e3\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"s1j16OAnwQw2UcdvSXbG-2\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"wQPSot93MLJHToXyQ1DZ-1\" source=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f\" target=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"805\" y=\"280\" />\n              <mxPoint x=\"805\" y=\"529.13663606208\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"validateAlarm!\" value=\"alarm.dart {L118:L142}\" id=\"lib/alarm.dart-898de290-358c-4442-a9d0-13704896acc8\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"wQPSot93MLJHToXyQ1DZ-1\" vertex=\"1\">\n            <mxGeometry x=\"1270\" y=\"491.91052062666\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"alarm_trigger_api_impl.dart\" value=\"alarm_trigger_api_impl.dart\" id=\"wQPSot93MLJHToXyQ1DZ-2\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"2765\" y=\"1043.8976106221162\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"ensureInitialized()&lt;br&gt;\" value=\"alarm_trigger_api_impl.dart {L31:L41}\" id=\"lib/src/alarm_trigger_api_impl.dart-12202b36-57a8-431b-b572-3b2a52665c07\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"wQPSot93MLJHToXyQ1DZ-2\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"wQPSot93MLJHToXyQ1DZ-3\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c\" target=\"wQPSot93MLJHToXyQ1DZ-2\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1425\" y=\"573.7794399401237\" />\n              <mxPoint x=\"1425\" y=\"800.9999999999999\" />\n              <mxPoint x=\"2700\" y=\"801\" />\n              <mxPoint x=\"2700\" y=\"1123.8976106221162\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"alarm_storage&lt;br&gt;\" value=\"alarm_storage.dart\" id=\"wQPSot93MLJHToXyQ1DZ-4\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"2765\" y=\"72.40449913702625\" width=\"220\" height=\"260\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"init()\" value=\"alarm_storage.dart {L33:L43}\" id=\"lib/service/alarm_storage.dart-25434fdd-996d-4e33-8785-4556174d9653\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"wQPSot93MLJHToXyQ1DZ-4\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"150\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"getSavedAlarms&lt;br&gt;\" value=\"alarm_storage.dart {L92:L111}\" id=\"lib/service/alarm_storage.dart-fed5e1b7-50c9-4c5f-979f-f5648925f150\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"wQPSot93MLJHToXyQ1DZ-4\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"wQPSot93MLJHToXyQ1DZ-5\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;entryX=-0.008;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;\" parent=\"1\" source=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c\" target=\"lib/service/alarm_storage.dart-25434fdd-996d-4e33-8785-4556174d9653\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1445\" y=\"558.7794399401237\" />\n              <mxPoint x=\"1445\" y=\"500\" />\n              <mxPoint x=\"2710\" y=\"500\" />\n              <mxPoint x=\"2710\" y=\"252.40449913702625\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"wQPSot93MLJHToXyQ1DZ-8\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-e4fc4b58-d56d-4e8b-be5e-2178dbd4b502\" target=\"lib/service/alarm_storage.dart-fed5e1b7-50c9-4c5f-979f-f5648925f150\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2700\" y=\"400.23489876483654\" />\n              <mxPoint x=\"2700\" y=\"152.40449913702625\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"0OXi6hN2YIFnV1c2RsLp-1\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"lib/service/alarm_storage.dart-fed5e1b7-50c9-4c5f-979f-f5648925f150\" target=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-f88d41ae-b519-44c1-b7e6-452f49422d9a\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"3135\" y=\"152.40449913702625\" />\n              <mxPoint x=\"3135\" y=\"50\" />\n              <mxPoint x=\"1150\" y=\"50\" />\n              <mxPoint x=\"1150\" y=\"380.9788082067784\" />\n              <mxPoint x=\"1425\" y=\"380.9788082067784\" />\n              <mxPoint x=\"1425\" y=\"331.6621630462545\" />\n              <mxPoint x=\"1580\" y=\"331.6621630462545\" />\n              <mxPoint x=\"1580\" y=\"332.95162064\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"android_alarm.dart\" value=\"android_alarm.dart\" id=\"s1j16OAnwQw2UcdvSXbG-4\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"2765\" y=\"372.40449913702633\" width=\"325\" height=\"260\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"set()\" value=\"android_alarm.dart {L19:L31}\" id=\"lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"s1j16OAnwQw2UcdvSXbG-4\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"nativeSetCall\" value=\"android_alarm.dart {L21:L22}\" id=\"lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020-d94293c7-58c0-4110-9901-f98328355ee8\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"s1j16OAnwQw2UcdvSXbG-5\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-7814669a-25a5-43af-a9b4-07aa4014a6e3\" target=\"lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2290\" y=\"601\" />\n              <mxPoint x=\"2290\" y=\"602.26091074466\" />\n              <mxPoint x=\"2425\" y=\"602.26091074466\" />\n              <mxPoint x=\"2425\" y=\"649.9426416814217\" />\n              <mxPoint x=\"2720\" y=\"649.9426416814217\" />\n              <mxPoint x=\"2720\" y=\"485.35611977702627\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"ios_alarm.dart\" value=\"ios_alarm.dart\" id=\"s1j16OAnwQw2UcdvSXbG-6\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"2765\" y=\"672.4044991370262\" width=\"325\" height=\"260\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"set()\" value=\"ios_alarm.dart {L15:L34}\" id=\"lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"s1j16OAnwQw2UcdvSXbG-6\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"nativeSetCall\" value=\"ios_alarm.dart {L23}\" id=\"lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f-3066299a-915d-4bbd-bd3b-8cc7c06cb5fb\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"s1j16OAnwQw2UcdvSXbG-7\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-6508cee4-1012-4515-859a-d69aa9695710\" target=\"lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2425\" y=\"701\" />\n              <mxPoint x=\"2425\" y=\"720.2852742923634\" />\n              <mxPoint x=\"2700\" y=\"720.2852742923634\" />\n              <mxPoint x=\"2700\" y=\"785.3561197770262\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"AlarmApiImpl.kt\" value=\"AlarmApiImpl.kt\" id=\"s1j16OAnwQw2UcdvSXbG-8\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"3200\" y=\"422.40449913702633\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"setAlarm\" value=\"AlarmApiImpl.kt {L111:L132}\" id=\"android/src/main/kotlin/com/gdelataillade/alarm/api/AlarmApiImpl.kt-e32b15d8-6428-4867-8e0d-5aff622db01f\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"s1j16OAnwQw2UcdvSXbG-8\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"s1j16OAnwQw2UcdvSXbG-11\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020-d94293c7-58c0-4110-9901-f98328355ee8\" target=\"android/src/main/kotlin/com/gdelataillade/alarm/api/AlarmApiImpl.kt-e32b15d8-6428-4867-8e0d-5aff622db01f\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"AlarmApiImpl.swift\" value=\"AlarmApiImpl.swift\" id=\"026EtkoYRUkFBKnijwvg-1\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"3200\" y=\"722.4044991370262\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"setAlarm&lt;br&gt;\" value=\"AlarmApiImpl.swift {L32:L99}\" id=\"ios/Classes/api/AlarmApiImpl.swift-fe64d717-a53c-4997-8403-b357215547da\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" parent=\"026EtkoYRUkFBKnijwvg-1\" vertex=\"1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"026EtkoYRUkFBKnijwvg-2\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" parent=\"1\" source=\"lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f-3066299a-915d-4bbd-bd3b-8cc7c06cb5fb\" target=\"ios/Classes/api/AlarmApiImpl.swift-fe64d717-a53c-4997-8403-b357215547da\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"Example App&lt;br&gt;\" value=\"example\" id=\"lt3tbdSB0-rvPCeqXmfK-2\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"1\">\n            <mxGeometry x=\"50\" y=\"327.51439697296024\" width=\"1055\" height=\"479.290106940188\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"screens\" value=\"screens\" id=\"lt3tbdSB0-rvPCeqXmfK-1\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"lt3tbdSB0-rvPCeqXmfK-2\">\n            <mxGeometry x=\"50\" y=\"150\" width=\"870\" height=\"279.290106940188\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Home Screen\" value=\"home.dart\" id=\"lt3tbdSB0-rvPCeqXmfK-4\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"lt3tbdSB0-rvPCeqXmfK-1\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"220\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"EditAlarmButton&lt;br&gt;\" value=\"home.dart {L62:L75}\" id=\"example/lib/screens/home.dart-64e30225-1f4b-420b-af46-960ab9092c08\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"lt3tbdSB0-rvPCeqXmfK-4\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Edit Alarm Screen\" value=\"edit_alarm.dart\" id=\"lt3tbdSB0-rvPCeqXmfK-7\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#FF9999;strokeWidth=1;strokeColor=#FFA5A2;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=1;align=left;verticalAlign=top;fillColor=none;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;\" vertex=\"1\" parent=\"lt3tbdSB0-rvPCeqXmfK-1\">\n            <mxGeometry x=\"375\" y=\"69.29010694018805\" width=\"440\" height=\"160\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"lt3tbdSB0-rvPCeqXmfK-9\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"lt3tbdSB0-rvPCeqXmfK-7\" source=\"example/lib/screens/edit_alarm.dart-b804ea20-4fd8-4090-a22f-4f0d1828fce1\" target=\"example/lib/screens/edit_alarm.dart-f3ea400e-ebb9-49fe-afb7-3cb050003bc3\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"saveAlarmButton\" value=\"edit_alarm.dart {L172:L183}\" id=\"example/lib/screens/edit_alarm.dart-b804ea20-4fd8-4090-a22f-4f0d1828fce1\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"lt3tbdSB0-rvPCeqXmfK-7\">\n            <mxGeometry x=\"50\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"saveAlarm\" value=\"edit_alarm.dart {L137:L145}\" id=\"example/lib/screens/edit_alarm.dart-f3ea400e-ebb9-49fe-afb7-3cb050003bc3\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"lt3tbdSB0-rvPCeqXmfK-7\">\n            <mxGeometry x=\"270\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"lt3tbdSB0-rvPCeqXmfK-8\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"lt3tbdSB0-rvPCeqXmfK-1\" source=\"example/lib/screens/home.dart-64e30225-1f4b-420b-af46-960ab9092c08\" target=\"lt3tbdSB0-rvPCeqXmfK-7\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"315\" y=\"130.00000000000006\" />\n              <mxPoint x=\"315\" y=\"127.7889329401881\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"main.dart\" value=\"main.dart\" id=\"lt3tbdSB0-rvPCeqXmfK-3\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#8A8382;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"lt3tbdSB0-rvPCeqXmfK-2\">\n            <mxGeometry x=\"800\" y=\"50\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"lt3tbdSB0-rvPCeqXmfK-10\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"1\" source=\"example/lib/screens/edit_alarm.dart-f3ea400e-ebb9-49fe-afb7-3cb050003bc3\" target=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2020\" y=\"626.8045039131481\" />\n              <mxPoint x=\"2020\" y=\"609.13663606208\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"lt3tbdSB0-rvPCeqXmfK-11\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;container=1;\" edge=\"1\" parent=\"1\" source=\"lt3tbdSB0-rvPCeqXmfK-3\" target=\"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1015\" y=\"407.51439697296024\" />\n              <mxPoint x=\"1015\" y=\"408.5269365942012\" />\n              <mxPoint x=\"1150\" y=\"408.52693659420123\" />\n              <mxPoint x=\"1150\" y=\"558.7794399401237\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "",
+	"fileURL": "local",
+	"repo": "alarm",
+	"branch": "main",
+	"owner": "Wasifz9",
+	"simulations": {},
+	"cellToPath": {
+		"wQPSot93MLJHToXyQ1DZ-1": "lib/alarm.dart",
+		"wQPSot93MLJHToXyQ1DZ-2": "lib/src/alarm_trigger_api_impl.dart",
+		"wQPSot93MLJHToXyQ1DZ-4": "lib/service/alarm_storage.dart",
+		"s1j16OAnwQw2UcdvSXbG-4": "lib/src/android_alarm.dart",
+		"s1j16OAnwQw2UcdvSXbG-6": "lib/src/ios_alarm.dart",
+		"s1j16OAnwQw2UcdvSXbG-8": "android/src/main/kotlin/com/gdelataillade/alarm/api/AlarmApiImpl.kt",
+		"026EtkoYRUkFBKnijwvg-1": "ios/Classes/api/AlarmApiImpl.swift",
+		"lt3tbdSB0-rvPCeqXmfK-1": "example/lib/screens",
+		"lt3tbdSB0-rvPCeqXmfK-2": "example",
+		"lt3tbdSB0-rvPCeqXmfK-3": "example/lib/main.dart",
+		"lt3tbdSB0-rvPCeqXmfK-4": "example/lib/screens/home.dart",
+		"lt3tbdSB0-rvPCeqXmfK-7": "example/lib/screens/edit_alarm.dart"
+	},
+	"repoData": {
+		"lib/alarm.dart": {
+			"path": "lib/alarm.dart",
+			"fileName": "alarm.dart",
+			"cellName": "alarm.dart",
+			"cellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"visible": true,
+			"children": [
+				"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c",
+				"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470",
+				"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-e4fc4b58-d56d-4e8b-be5e-2178dbd4b502",
+				"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-49c1edd7-a783-43dd-9cf3-538fdcc60924",
+				"lib/alarm.dart-979e2472-a729-45d1-adfd-fed7877db3e8",
+				"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-f88d41ae-b519-44c1-b7e6-452f49422d9a",
+				"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f",
+				"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139",
+				"lib/alarm.dart-898de290-358c-4442-a9d0-13704896acc8",
+				"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-6508cee4-1012-4515-859a-d69aa9695710",
+				"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-7814669a-25a5-43af-a9b4-07aa4014a6e3"
+			]
+		},
+		"example/lib/main.dart": {
+			"path": "example/lib/main.dart",
+			"fileName": "main.dart",
+			"cellName": "main.dart",
+			"cellId": "lt3tbdSB0-rvPCeqXmfK-3",
+			"visible": true
+		},
+		"lib/service/alarm_storage.dart": {
+			"path": "lib/service/alarm_storage.dart",
+			"fileName": "alarm_storage.dart",
+			"cellName": "alarm_storage",
+			"cellId": "wQPSot93MLJHToXyQ1DZ-4",
+			"visible": true,
+			"children": [
+				"lib/service/alarm_storage.dart-25434fdd-996d-4e33-8785-4556174d9653",
+				"lib/service/alarm_storage.dart-fed5e1b7-50c9-4c5f-979f-f5648925f150"
+			]
+		},
+		"lib/src/ios_alarm.dart": {
+			"path": "lib/src/ios_alarm.dart",
+			"fileName": "ios_alarm.dart",
+			"cellName": "ios_alarm.dart",
+			"cellId": "s1j16OAnwQw2UcdvSXbG-6",
+			"visible": true,
+			"children": [
+				"lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f",
+				"lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f-3066299a-915d-4bbd-bd3b-8cc7c06cb5fb"
+			]
+		},
+		"lib/src/android_alarm.dart": {
+			"path": "lib/src/android_alarm.dart",
+			"fileName": "android_alarm.dart",
+			"cellName": "android_alarm.dart",
+			"cellId": "s1j16OAnwQw2UcdvSXbG-4",
+			"visible": true,
+			"children": [
+				"lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020",
+				"lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020-d94293c7-58c0-4110-9901-f98328355ee8"
+			]
+		},
+		"lib/src/alarm_trigger_api_impl.dart": {
+			"path": "lib/src/alarm_trigger_api_impl.dart",
+			"fileName": "alarm_trigger_api_impl.dart",
+			"cellName": "alarm_trigger_api_impl.dart",
+			"cellId": "wQPSot93MLJHToXyQ1DZ-2",
+			"visible": true,
+			"children": [
+				"lib/src/alarm_trigger_api_impl.dart-12202b36-57a8-431b-b572-3b2a52665c07"
+			]
+		},
+		"ios/Classes/api/AlarmApiImpl.swift": {
+			"path": "ios/Classes/api/AlarmApiImpl.swift",
+			"fileName": "AlarmApiImpl.swift",
+			"cellName": "AlarmApiImpl.swift",
+			"cellId": "026EtkoYRUkFBKnijwvg-1",
+			"visible": true,
+			"children": [
+				"ios/Classes/api/AlarmApiImpl.swift-fe64d717-a53c-4997-8403-b357215547da"
+			]
+		},
+		"example/lib/screens/edit_alarm.dart": {
+			"path": "example/lib/screens/edit_alarm.dart",
+			"fileName": "edit_alarm.dart",
+			"cellName": "Edit Alarm Screen",
+			"cellId": "lt3tbdSB0-rvPCeqXmfK-7",
+			"visible": true,
+			"children": [
+				"example/lib/screens/edit_alarm.dart-b804ea20-4fd8-4090-a22f-4f0d1828fce1",
+				"example/lib/screens/edit_alarm.dart-f3ea400e-ebb9-49fe-afb7-3cb050003bc3"
+			]
+		},
+		"example/lib/screens/home.dart": {
+			"path": "example/lib/screens/home.dart",
+			"fileName": "home.dart",
+			"cellName": "Home Screen",
+			"cellId": "lt3tbdSB0-rvPCeqXmfK-4",
+			"visible": true,
+			"children": [
+				"example/lib/screens/home.dart-64e30225-1f4b-420b-af46-960ab9092c08"
+			]
+		},
+		"example/lib/screens": {
+			"path": "example/lib/screens",
+			"fileName": "screens",
+			"cellName": "screens",
+			"cellId": "lt3tbdSB0-rvPCeqXmfK-1",
+			"visible": true
+		},
+		"android/src/main/kotlin/com/gdelataillade/alarm/api/AlarmApiImpl.kt": {
+			"path": "android/src/main/kotlin/com/gdelataillade/alarm/api/AlarmApiImpl.kt",
+			"fileName": "AlarmApiImpl.kt",
+			"cellName": "AlarmApiImpl.kt",
+			"cellId": "s1j16OAnwQw2UcdvSXbG-8",
+			"visible": true,
+			"children": [
+				"android/src/main/kotlin/com/gdelataillade/alarm/api/AlarmApiImpl.kt-e32b15d8-6428-4867-8e0d-5aff622db01f"
+			]
+		},
+		"example": {
+			"path": "example",
+			"fileName": "example",
+			"cellName": "Example App",
+			"cellId": "lt3tbdSB0-rvPCeqXmfK-2",
+			"visible": true
+		},
+		"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c": {
+			"path": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c",
+			"fileName": "alarm.dart",
+			"cellName": "init",
+			"cellId": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c",
+			"visible": true,
+			"startLine": "54",
+			"endLine": "63",
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"wQPSot93MLJHToXyQ1DZ-3": {
+			"path": "wQPSot93MLJHToXyQ1DZ-3",
+			"cellId": "wQPSot93MLJHToXyQ1DZ-3",
+			"visible": true
+		},
+		"wQPSot93MLJHToXyQ1DZ-5": {
+			"path": "wQPSot93MLJHToXyQ1DZ-5",
+			"cellId": "wQPSot93MLJHToXyQ1DZ-5",
+			"visible": true
+		},
+		"lib/service/alarm_storage.dart-25434fdd-996d-4e33-8785-4556174d9653": {
+			"path": "lib/service/alarm_storage.dart-25434fdd-996d-4e33-8785-4556174d9653",
+			"fileName": "alarm_storage.dart",
+			"cellName": "init()",
+			"cellId": "lib/service/alarm_storage.dart-25434fdd-996d-4e33-8785-4556174d9653",
+			"visible": true,
+			"startLine": "33",
+			"endLine": "43",
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-4",
+			"parentPath": "lib/service/alarm_storage.dart"
+		},
+		"lib/src/alarm_trigger_api_impl.dart-12202b36-57a8-431b-b572-3b2a52665c07": {
+			"path": "lib/src/alarm_trigger_api_impl.dart-12202b36-57a8-431b-b572-3b2a52665c07",
+			"fileName": "alarm_trigger_api_impl.dart",
+			"cellName": "ensureInitialized()",
+			"cellId": "lib/src/alarm_trigger_api_impl.dart-12202b36-57a8-431b-b572-3b2a52665c07",
+			"visible": true,
+			"startLine": "31",
+			"endLine": "41",
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-2",
+			"parentPath": "lib/src/alarm_trigger_api_impl.dart"
+		},
+		"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470": {
+			"path": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470",
+			"fileName": "alarm.dart",
+			"cellName": "checkAlarm()",
+			"cellId": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470",
+			"visible": true,
+			"startLine": "65",
+			"endLine": "85",
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"wQPSot93MLJHToXyQ1DZ-6": {
+			"path": "wQPSot93MLJHToXyQ1DZ-6",
+			"cellId": "wQPSot93MLJHToXyQ1DZ-6",
+			"visible": true,
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1"
+		},
+		"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-e4fc4b58-d56d-4e8b-be5e-2178dbd4b502": {
+			"path": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-e4fc4b58-d56d-4e8b-be5e-2178dbd4b502",
+			"fileName": "alarm.dart",
+			"cellName": "getAlarms()",
+			"cellId": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-e4fc4b58-d56d-4e8b-be5e-2178dbd4b502",
+			"visible": true,
+			"startLine": "241",
+			"endLine": "243",
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"wQPSot93MLJHToXyQ1DZ-7": {
+			"path": "wQPSot93MLJHToXyQ1DZ-7",
+			"cellId": "wQPSot93MLJHToXyQ1DZ-7",
+			"visible": true,
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1"
+		},
+		"lib/service/alarm_storage.dart-fed5e1b7-50c9-4c5f-979f-f5648925f150": {
+			"path": "lib/service/alarm_storage.dart-fed5e1b7-50c9-4c5f-979f-f5648925f150",
+			"fileName": "alarm_storage.dart",
+			"cellName": "getSavedAlarms",
+			"cellId": "lib/service/alarm_storage.dart-fed5e1b7-50c9-4c5f-979f-f5648925f150",
+			"visible": true,
+			"startLine": "92",
+			"endLine": "111",
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-4",
+			"parentPath": "lib/service/alarm_storage.dart"
+		},
+		"wQPSot93MLJHToXyQ1DZ-8": {
+			"path": "wQPSot93MLJHToXyQ1DZ-8",
+			"cellId": "wQPSot93MLJHToXyQ1DZ-8",
+			"visible": true
+		},
+		"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-49c1edd7-a783-43dd-9cf3-538fdcc60924": {
+			"path": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-49c1edd7-a783-43dd-9cf3-538fdcc60924",
+			"fileName": "alarm.dart",
+			"cellName": "ifIOS",
+			"cellId": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-49c1edd7-a783-43dd-9cf3-538fdcc60924",
+			"visible": true,
+			"startLine": 70,
+			"endLine": 70,
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"lib/alarm.dart-979e2472-a729-45d1-adfd-fed7877db3e8": {
+			"path": "lib/alarm.dart-979e2472-a729-45d1-adfd-fed7877db3e8",
+			"fileName": "alarm.dart",
+			"cellName": "stopAll()",
+			"cellId": "lib/alarm.dart-979e2472-a729-45d1-adfd-fed7877db3e8",
+			"visible": true,
+			"startLine": "177",
+			"endLine": "191",
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"wQPSot93MLJHToXyQ1DZ-9": {
+			"path": "wQPSot93MLJHToXyQ1DZ-9",
+			"cellId": "wQPSot93MLJHToXyQ1DZ-9",
+			"visible": true,
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1"
+		},
+		"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-f88d41ae-b519-44c1-b7e6-452f49422d9a": {
+			"path": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-f88d41ae-b519-44c1-b7e6-452f49422d9a",
+			"fileName": "alarm.dart",
+			"wiki": "<h3>Breakdown of the Loop:</h3><p><strong>Iteration through Alarms</strong>:<br>The loop iterates through each alarm in the alarms list, which represents all previously saved alarms retrieved from storage.</p><p><strong>Get Current Time</strong>:<br>final now = DateTime.now(); retrieves the current date and time. This is crucial for determining whether each saved alarm's scheduled time is in the future or has already passed.</p><p><strong>Check Scheduled Time</strong>:</p><ul><li><strong>Future Alarm Check</strong>: if (alarm.dateTime.isAfter(now)) checks if the alarm's scheduled time (alarm.dateTime) is after the current time (now).<ul><li>If true, it means the alarm is still in the future, and the code calls the set method to re-schedule this alarm for ringing.</li></ul></li><li><strong>Past Alarm Handling</strong>: If the alarm is not in the future:<ul><li>An inner check if (await Alarm.isRinging(alarm.id)) determines if this specific alarm is currently ringing.<ul><li>If the alarm is ringing, it adds this alarm to the _ringing BehaviorSubject, indicating that this alarm is active and should be treated as a ringing alarm.</li><li>It also pushes an update to ringStream, notifying listeners that this alarm is ringing.</li></ul></li><li>If the alarm is not ringing, it asynchronously calls stop(alarm.id) to ensure that the alarm is turned off, indicating it is no longer valid or necessary.</li></ul></li></ul><h3>Summary</h3><p>In essence, this loop serves to:</p><ul><li>Reschedule alarms that are meant to ring in the future.</li><li>Handle ringing alarms that are already ongoing, ensuring that their state is reflected in the system.</li><li>Stop any alarms that were supposed to ring in the past but are not currently active.</li></ul><h3>Example Scenario</h3><p>Imagine the app was terminated with the following saved alarms in storage:</p><ul><li>Alarm A (scheduled for tomorrow)</li><li>Alarm B (scheduled for yesterday and is currently ringing)</li><li>Alarm C (scheduled for a few days later)</li></ul><p>When checkAlarm is invoked:</p><ul><li>The app will reschedule Alarm A.</li><li>For Alarm B, since it's already ringing, it'll be added to the ringing alarms and notified.</li><li>For Alarm C, since it’s set for the future, it will also be rescheduled.</li></ul><p>This logic ensures that the app maintains a correct and updated state of alarms whenever it is restarted.</p><p>&nbsp;</p>",
+			"cellName": "processExistingAlarms",
+			"cellId": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-f88d41ae-b519-44c1-b7e6-452f49422d9a",
+			"visible": true,
+			"startLine": "72",
+			"endLine": "84",
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"lib/alarm.dart#L30-L63": {
+			"path": "lib/alarm.dart#L30-L63",
+			"fileName": "alarm.dart",
+			"wiki": "<h3>Breakdown of the Loop:</h3><p><strong>Iteration through Alarms</strong>:<br>The loop iterates through each alarm in the alarms list, which represents all previously saved alarms retrieved from storage.</p><p><strong>Get Current Time</strong>:<br>final now = DateTime.now(); retrieves the current date and time. This is crucial for determining whether each saved alarm's scheduled time is in the future or has already passed.</p><p><strong>Check Scheduled Time</strong>:</p><ul><li><strong>Future Alarm Check</strong>: if (alarm.dateTime.isAfter(now)) checks if the alarm's scheduled time (alarm.dateTime) is after the current time (now).<ul><li>If true, it means the alarm is still in the future, and the code calls the set method to re-schedule this alarm for ringing.</li></ul></li><li><strong>Past Alarm Handling</strong>: If the alarm is not in the future:<ul><li>An inner check if (await Alarm.isRinging(alarm.id)) determines if this specific alarm is currently ringing.<ul><li>If the alarm is ringing, it adds this alarm to the _ringing BehaviorSubject, indicating that this alarm is active and should be treated as a ringing alarm.</li><li>It also pushes an update to ringStream, notifying listeners that this alarm is ringing.</li></ul></li><li>If the alarm is not ringing, it asynchronously calls stop(alarm.id) to ensure that the alarm is turned off, indicating it is no longer valid or necessary.</li></ul></li></ul><h3>Summary</h3><p>In essence, this loop serves to:</p><ul><li>Reschedule alarms that are meant to ring in the future.</li><li>Handle ringing alarms that are already ongoing, ensuring that their state is reflected in the system.</li><li>Stop any alarms that were supposed to ring in the past but are not currently active.</li></ul><h3>Example Scenario</h3><p>Imagine the app was terminated with the following saved alarms in storage:</p><ul><li>Alarm A (scheduled for tomorrow)</li><li>Alarm B (scheduled for yesterday and is currently ringing)</li><li>Alarm C (scheduled for a few days later)</li></ul><p>When checkAlarm is invoked:</p><ul><li>The app will reschedule Alarm A.</li><li>For Alarm B, since it's already ringing, it'll be added to the ringing alarms and notified.</li><li>For Alarm C, since it’s set for the future, it will also be rescheduled.</li></ul><p>This logic ensures that the app maintains a correct and updated state of alarms whenever it is restarted.</p><p>&nbsp;</p>",
+			"cellName": "processExistingAlarms",
+			"cellId": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-f88d41ae-b519-44c1-b7e6-452f49422d9a",
+			"visible": true,
+			"startLine": "30",
+			"endLine": "63",
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"0OXi6hN2YIFnV1c2RsLp-1": {
+			"path": "0OXi6hN2YIFnV1c2RsLp-1",
+			"cellId": "0OXi6hN2YIFnV1c2RsLp-1",
+			"visible": true
+		},
+		"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f": {
+			"path": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f",
+			"fileName": "alarm.dart",
+			"cellName": "setAlarm if in Future",
+			"cellId": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f",
+			"visible": true,
+			"startLine": 75,
+			"endLine": 75,
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139": {
+			"path": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139",
+			"fileName": "alarm.dart",
+			"cellName": "setAlarm",
+			"cellId": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139",
+			"visible": true,
+			"startLine": "87",
+			"endLine": "116",
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"s1j16OAnwQw2UcdvSXbG-2": {
+			"path": "s1j16OAnwQw2UcdvSXbG-2",
+			"cellId": "s1j16OAnwQw2UcdvSXbG-2",
+			"visible": true,
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1"
+		},
+		"lib/alarm.dart-898de290-358c-4442-a9d0-13704896acc8": {
+			"path": "lib/alarm.dart-898de290-358c-4442-a9d0-13704896acc8",
+			"fileName": "alarm.dart",
+			"cellName": "validateAlarm!",
+			"cellId": "lib/alarm.dart-898de290-358c-4442-a9d0-13704896acc8",
+			"visible": true,
+			"startLine": "118",
+			"endLine": "142",
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"s1j16OAnwQw2UcdvSXbG-3": {
+			"path": "s1j16OAnwQw2UcdvSXbG-3",
+			"cellId": "s1j16OAnwQw2UcdvSXbG-3",
+			"visible": true,
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1"
+		},
+		"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-6508cee4-1012-4515-859a-d69aa9695710": {
+			"path": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-6508cee4-1012-4515-859a-d69aa9695710",
+			"fileName": "alarm.dart",
+			"cellName": "setIOSAlarm",
+			"cellId": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-6508cee4-1012-4515-859a-d69aa9695710",
+			"visible": true,
+			"startLine": 106,
+			"endLine": 106,
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-7814669a-25a5-43af-a9b4-07aa4014a6e3": {
+			"path": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-7814669a-25a5-43af-a9b4-07aa4014a6e3",
+			"fileName": "alarm.dart",
+			"cellName": "setAndroidAlarm",
+			"cellId": "lib/alarm.dart-d8f7585e-b5c0-4d34-b06f-678f4073900c-ac4e20e1-52a2-4d52-a87d-2b1b0e25c470-3d62baa5-7f3a-4ec8-9919-4baa7654086f-2dd31baa-2789-4521-bcbf-a5b062d99139-7814669a-25a5-43af-a9b4-07aa4014a6e3",
+			"visible": true,
+			"startLine": 107,
+			"endLine": 107,
+			"parentCellId": "wQPSot93MLJHToXyQ1DZ-1",
+			"parentPath": "lib/alarm.dart"
+		},
+		"lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020": {
+			"path": "lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020",
+			"fileName": "android_alarm.dart",
+			"cellName": "set()",
+			"cellId": "lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020",
+			"visible": true,
+			"startLine": "19",
+			"endLine": "31",
+			"parentCellId": "s1j16OAnwQw2UcdvSXbG-4",
+			"parentPath": "lib/src/android_alarm.dart"
+		},
+		"s1j16OAnwQw2UcdvSXbG-5": {
+			"path": "s1j16OAnwQw2UcdvSXbG-5",
+			"cellId": "s1j16OAnwQw2UcdvSXbG-5",
+			"visible": true
+		},
+		"lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f": {
+			"path": "lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f",
+			"fileName": "ios_alarm.dart",
+			"cellName": "set()",
+			"cellId": "lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f",
+			"visible": true,
+			"startLine": "15",
+			"endLine": "34",
+			"parentCellId": "s1j16OAnwQw2UcdvSXbG-6",
+			"parentPath": "lib/src/ios_alarm.dart"
+		},
+		"s1j16OAnwQw2UcdvSXbG-7": {
+			"path": "s1j16OAnwQw2UcdvSXbG-7",
+			"cellId": "s1j16OAnwQw2UcdvSXbG-7",
+			"visible": true
+		},
+		"lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f-3066299a-915d-4bbd-bd3b-8cc7c06cb5fb": {
+			"path": "lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f-3066299a-915d-4bbd-bd3b-8cc7c06cb5fb",
+			"fileName": "ios_alarm.dart",
+			"cellName": "nativeSetCall",
+			"cellId": "lib/src/ios_alarm.dart-9a6a8fbc-8ce3-4ea3-bd1c-88b9fd20f92f-3066299a-915d-4bbd-bd3b-8cc7c06cb5fb",
+			"visible": true,
+			"startLine": 23,
+			"endLine": 23,
+			"parentCellId": "s1j16OAnwQw2UcdvSXbG-6",
+			"parentPath": "lib/src/ios_alarm.dart"
+		},
+		"android/src/main/kotlin/com/gdelataillade/alarm/api/AlarmApiImpl.kt-e32b15d8-6428-4867-8e0d-5aff622db01f": {
+			"path": "android/src/main/kotlin/com/gdelataillade/alarm/api/AlarmApiImpl.kt-e32b15d8-6428-4867-8e0d-5aff622db01f",
+			"fileName": "AlarmApiImpl.kt",
+			"cellName": "setAlarm",
+			"cellId": "android/src/main/kotlin/com/gdelataillade/alarm/api/AlarmApiImpl.kt-e32b15d8-6428-4867-8e0d-5aff622db01f",
+			"visible": true,
+			"startLine": "111",
+			"endLine": "132",
+			"parentCellId": "s1j16OAnwQw2UcdvSXbG-8",
+			"parentPath": "android/src/main/kotlin/com/gdelataillade/alarm/api/AlarmApiImpl.kt"
+		},
+		"lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020-d94293c7-58c0-4110-9901-f98328355ee8": {
+			"path": "lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020-d94293c7-58c0-4110-9901-f98328355ee8",
+			"fileName": "android_alarm.dart",
+			"cellName": "nativeSetCall",
+			"cellId": "lib/src/android_alarm.dart-e3b15ab6-5aff-4052-a9c4-7b9095e97020-d94293c7-58c0-4110-9901-f98328355ee8",
+			"visible": true,
+			"startLine": "21",
+			"endLine": "22",
+			"parentCellId": "s1j16OAnwQw2UcdvSXbG-4",
+			"parentPath": "lib/src/android_alarm.dart"
+		},
+		"s1j16OAnwQw2UcdvSXbG-11": {
+			"path": "s1j16OAnwQw2UcdvSXbG-11",
+			"cellId": "s1j16OAnwQw2UcdvSXbG-11",
+			"visible": true
+		},
+		"ios/Classes/api/AlarmApiImpl.swift-fe64d717-a53c-4997-8403-b357215547da": {
+			"path": "ios/Classes/api/AlarmApiImpl.swift-fe64d717-a53c-4997-8403-b357215547da",
+			"fileName": "AlarmApiImpl.swift",
+			"cellName": "setAlarm",
+			"cellId": "ios/Classes/api/AlarmApiImpl.swift-fe64d717-a53c-4997-8403-b357215547da",
+			"visible": true,
+			"startLine": "32",
+			"endLine": "99",
+			"parentCellId": "026EtkoYRUkFBKnijwvg-1",
+			"parentPath": "ios/Classes/api/AlarmApiImpl.swift"
+		},
+		"026EtkoYRUkFBKnijwvg-2": {
+			"path": "026EtkoYRUkFBKnijwvg-2",
+			"cellId": "026EtkoYRUkFBKnijwvg-2",
+			"visible": true
+		},
+		"example/lib/screens/home.dart-64e30225-1f4b-420b-af46-960ab9092c08": {
+			"path": "example/lib/screens/home.dart-64e30225-1f4b-420b-af46-960ab9092c08",
+			"fileName": "home.dart",
+			"cellName": "EditAlarmButton",
+			"cellId": "example/lib/screens/home.dart-64e30225-1f4b-420b-af46-960ab9092c08",
+			"visible": true,
+			"startLine": "62",
+			"endLine": "75",
+			"parentCellId": "lt3tbdSB0-rvPCeqXmfK-4",
+			"parentPath": "example/lib/screens/home.dart"
+		},
+		"lt3tbdSB0-rvPCeqXmfK-8": {
+			"path": "lt3tbdSB0-rvPCeqXmfK-8",
+			"cellId": "lt3tbdSB0-rvPCeqXmfK-8",
+			"visible": true,
+			"parentCellId": "lt3tbdSB0-rvPCeqXmfK-1"
+		},
+		"example/lib/screens/edit_alarm.dart-b804ea20-4fd8-4090-a22f-4f0d1828fce1": {
+			"path": "example/lib/screens/edit_alarm.dart-b804ea20-4fd8-4090-a22f-4f0d1828fce1",
+			"fileName": "edit_alarm.dart",
+			"cellName": "saveAlarmButton",
+			"cellId": "example/lib/screens/edit_alarm.dart-b804ea20-4fd8-4090-a22f-4f0d1828fce1",
+			"visible": true,
+			"startLine": "172",
+			"endLine": "183",
+			"parentCellId": "lt3tbdSB0-rvPCeqXmfK-7",
+			"parentPath": "example/lib/screens/edit_alarm.dart"
+		},
+		"example/lib/screens/edit_alarm.dart-f3ea400e-ebb9-49fe-afb7-3cb050003bc3": {
+			"path": "example/lib/screens/edit_alarm.dart-f3ea400e-ebb9-49fe-afb7-3cb050003bc3",
+			"fileName": "edit_alarm.dart",
+			"cellName": "saveAlarm",
+			"cellId": "example/lib/screens/edit_alarm.dart-f3ea400e-ebb9-49fe-afb7-3cb050003bc3",
+			"visible": true,
+			"startLine": "137",
+			"endLine": "145",
+			"parentCellId": "lt3tbdSB0-rvPCeqXmfK-7",
+			"parentPath": "example/lib/screens/edit_alarm.dart"
+		},
+		"lt3tbdSB0-rvPCeqXmfK-9": {
+			"path": "lt3tbdSB0-rvPCeqXmfK-9",
+			"cellId": "lt3tbdSB0-rvPCeqXmfK-9",
+			"visible": true,
+			"parentCellId": "lt3tbdSB0-rvPCeqXmfK-7"
+		},
+		"lt3tbdSB0-rvPCeqXmfK-10": {
+			"path": "lt3tbdSB0-rvPCeqXmfK-10",
+			"cellId": "lt3tbdSB0-rvPCeqXmfK-10",
+			"visible": true
+		},
+		"lt3tbdSB0-rvPCeqXmfK-11": {
+			"path": "lt3tbdSB0-rvPCeqXmfK-11",
+			"cellId": "lt3tbdSB0-rvPCeqXmfK-11",
+			"visible": true
+		}
+	}
+}
